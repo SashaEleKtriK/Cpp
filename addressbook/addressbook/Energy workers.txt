@@ -1,0 +1,2 @@
+Anton Fedorov. Birth year: 1998. Engineer. Department: 2. Category: 3.
+Maksim Igorev. Birth year: 1987. Electrician. Electrical_Safety_Level: 5. Category: 5.
